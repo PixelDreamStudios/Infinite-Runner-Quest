@@ -19,3 +19,14 @@
 
 ## License:
 This project is licensed under the MIT License. You can find the full details of the license in the `LICENSE` file in this repository.
+# Infinite Runner Quest
+
+This project contains images and other assets that are licensed under the MIT License.
+
+## License
+
+All images, code, and assets in this project are licensed under the **MIT License**. You can freely use, copy, modify, distribute, and even sell these assets as part of your own projects, with the following conditions:
+
+- The original copyright notice and this permission notice must be included in all copies or substantial portions of the assets.
+
+You can view the full license and access the source code on our GitHub repository: [PixelDreamStudios/Infinite-Runner-Quest](https://github.com/PixelDreamStudios/Infinite-Runner-Quest.git)
